@@ -1,0 +1,13 @@
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\bin\Debug\LedDrive.exe.config
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\bin\Debug\LedDrive.exe
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\bin\Debug\LedDrive.pdb
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\bin\Debug\Arduino4Net.dll
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\bin\Debug\Arduino4Net.pdb
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.csprojAssemblyReference.cache
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.Form1.resources
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.Properties.Resources.resources
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.csproj.GenerateResource.cache
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.csproj.CoreCompileInputs.cache
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.csproj.CopyComplete
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.exe
+C:\Users\MORIMOTOS\Desktop\LedDrive\LedDrive\obj\Debug\LedDrive.pdb
